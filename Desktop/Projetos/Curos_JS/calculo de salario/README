@@ -1,0 +1,10 @@
+Cálculo de Salário
+Projeto simples em JavaScript para calcular o valor final do salário de um colaborador, descontando o imposto de acordo com a faixa salarial e somando um benefício.
+
+📋 Descrição
+O programa lê o valor do salário e do benefício, calcula o imposto conforme a faixa salarial e exibe o valor final a ser recebido.
+
+Faixas de imposto:
+Salários até R$ 1100,00: 5%
+Salários de R$ 1100,01 até R$ 2500,00: 10%
+Salários acima de R$ 2500,00: 15%
